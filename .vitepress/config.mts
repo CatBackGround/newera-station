@@ -39,7 +39,7 @@ export default defineConfig({
           {
             text: 'Ведомственные СРП',
             collapsed: true,
-            items: [{ text: 'СРП командования', link: '/department/command' },]
+            items: [{ text: 'СРП командования', link: '/department/command' },{ text: 'СРП СБ', link: '/departament/command'}]
           },
           {
             text: 'Сервис',
